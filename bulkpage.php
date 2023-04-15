@@ -4,8 +4,8 @@
  * Plugin URI: https://example.com/
  * Description: A plugin that creates multiple pages in bulk.
  * Version: 1.1
- * Author: Your Name
- * Author URI: https://example.com/
+ * Author: Mayank Kumar
+ * Author URI: https://markmemayank.com/
  */
 
 // Add the plugin settings page to the WordPress dashboard
