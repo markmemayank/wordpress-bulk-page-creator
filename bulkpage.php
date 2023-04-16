@@ -1,7 +1,7 @@
 <?php
 /**
  * Plugin Name: Bulk Page Creator
- * Plugin URI: https://example.com/
+ * Plugin URI: To be updated
  * Description: A plugin that creates multiple pages in bulk.
  * Version: 1.1
  * Author: Mayank Kumar
